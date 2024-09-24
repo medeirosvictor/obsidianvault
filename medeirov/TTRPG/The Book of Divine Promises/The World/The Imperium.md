@@ -1,0 +1,12 @@
+1. Emperor Zephyr Stormheart:
+    - Empire: Reinos do Nordeste
+    - Description: Zephyrion Stormheart is a charismatic and enigmatic ruler, known for his mastery of air and lightning magic. His empire, the Aetherion Dominion, floats high above the surface of Toril, supported by advanced levitation technology and protected by powerful storm barriers. Zephyrion rules with an iron fist, ensuring the prosperity of his people while also seeking to expand his dominion through airborne warfare and advanced weaponry.
+2. Empress Liliana Prey:
+    - Empire: Reinos do Sudeste
+    - Description: Lyra Nightshade is a cunning and elusive ruler who harnesses the powers of shadow and illusion. Her empire, the Shadowspire Imperium, sprawls across the subterranean depths of Toril, consisting of vast underground cities and labyrinthine tunnels. Empress Lyra's dominion is shrouded in secrecy, espionage, and subterfuge, and her agents are skilled assassins and spies. She controls the flow of information and manipulates events from the shadows, always one step ahead of her rivals.
+3. Emperor Marco Cannith:
+    - Empire: Reinos do Noroeste
+    - Description: Magnus Ironfist is a relentless and unyielding ruler known for his martial prowess and technological advancements. His empire, the Ironforge Dominion, stretches across the war-torn surface of Toril, consisting of sprawling mechanical cities, fortified strongholds, and massive armies of automatons and battle constructs. Emperor Magnus seeks order and control, enforcing strict laws and regulations while suppressing dissent. He values discipline and strength, and his dominion is a formidable force to be reckoned with.
+4. Empress Seraphina:
+    - Empire: Reinos do Sudoeste
+    - Description: Seraphina Sunfire is an elegant and radiant ruler whose power emanates from the sun itself. Her empire, the Solaris Enclave, occupies the sun-drenched regions of Toril, comprising shimmering crystalline cities, vast solar farms, and breathtaking architectural wonders. Empress Seraphina is a benevolent leader, promoting art, knowledge, and spiritual enlightenment. She harnesses solar energy and divine magic to bring prosperity and harmony to her people, while also defending her dominion with celestial guardians and formidable holy warriors.

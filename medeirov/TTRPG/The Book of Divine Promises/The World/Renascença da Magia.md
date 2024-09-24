@@ -1,0 +1,1 @@
+Após cerca de 200 anos after the war como veu reparado pelo poder astral, magia voltou com forca e com essa volta os Deuses antes enfraquecidos agora voltavam a sua forma primordial de poder.

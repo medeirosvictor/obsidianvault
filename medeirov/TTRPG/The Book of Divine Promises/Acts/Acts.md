@@ -1,0 +1,5 @@
+[[Act I - Burial of Memories]]
+[[Act II - North of Cold]]
+[[Act III - Flash Burn]]
+[[Act IV - Take Flight]]
+[[Act V - Mandatory Growth]]

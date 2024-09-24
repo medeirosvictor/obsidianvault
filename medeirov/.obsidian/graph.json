@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "path: \"TTRPG/The Book of Divine Promises\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"TTRPG/The Book of Divine Promises/Acts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7320305
+      }
+    },
+    {
+      "query": "path:\"TTRPG/The Book of Divine Promises/The World\" -path:\"TTRPG/The Book of Divine Promises/The World/Alma Mater\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"TTRPG/The Book of Divine Promises/The World/Alma Mater\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15951976
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.8,
+  "nodeSizeMultiplier": 1.73971354166667,
+  "lineSizeMultiplier": 1.63763020833333,
+  "collapse-forces": false,
+  "centerStrength": 0.46484375,
+  "repelStrength": 12.6302083333333,
+  "linkStrength": 0.740885416666667,
+  "linkDistance": 126,
+  "scale": 0.3628873693012153,
+  "close": false
+}

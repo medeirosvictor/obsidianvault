@@ -1,0 +1,14 @@
+O grupo alma matter busca aniquilar Deuses menores e maiores, tomando o seu lugar no plano astral. Scholars do grupo acreditam que ao morrer no plano material, no entre plano das almas eles podem voltar ao plano material ou ascender como seres astrais, entretanto eles alegam que os Deuses os mantem no plano material ou os mandam de volta para o plano material gatekeeping uma vida ascendida e prospera. Os Deuses em si tendo esquecido dos sofrimentos da vida agora estao taking for granted seus poderes e sua sabedoria.
+O veu da magia eh apenas a cachoeira que separa o plano material do plano astral. Os ALMA matter querem acesso ao rio e ao plano astral.
+**Rise of the Rogue Godkin:**  
+A once-respected Godkin, disillusioned by the flawed nature of mortal gods, embarked on a radical quest. This rogue, driven by a profound belief in the inherent wisdom and purity of the Godkin race, orchestrated a grand scheme to overthrow and supplant the established pantheon of deities with his kin.  
+**Motivations and Grievances:**  
+The catalyst for this rebellion stemmed from personal anguish. The rogue Godkin, witnessing his own parents denied ascension to godhood, faced the harsh sentence of banishment to the desolate realm known as the Desert of the Immortals. This grievous injustice fueled his simmering resentment against the established deities, questioning why flawed and power-driven entities were granted divine status while his noble and enlightened kin were cast aside.  
+**Philosophy of Ascendance:**  
+Driven by an ideology that questioned the legitimacy of mortal gods, the rogue Godkin sought to reshape the cosmic order. His conviction lay in the belief that Godkin, with their wisdom and inherent nobility, were the rightful custodians of divine responsibilities. He perceived the existing gods as mere transitory beings, prone to fallibility and corruption, unfit to wield the immense powers that shaped mortal destinies.  
+**Repercussions and Cosmic Upheaval:**  
+The rogue Godkin's audacious plan to supplant the gods plunged the realms into chaos. As he succeeded in replacing established deities with his kindred, the balance of power shifted, triggering conflicts among mortals and celestial beings alike. The cosmic equilibrium teetered on the brink of collapse, threatening the fabric of reality itself.  
+**Quest for Redemption or Dominance:**  
+As the rogue Godkin's designs unfold, adventurers and champions across planes must decide whether to oppose his vision or aid in its realization. The stakes are dire – restore the rightful order or succumb to an era where divine authority falls into the hands of ascended immortals, potentially altering the course of existence itself.  
+  
+[[Rankings]]

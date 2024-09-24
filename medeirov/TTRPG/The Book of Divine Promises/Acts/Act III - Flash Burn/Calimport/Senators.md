@@ -1,0 +1,6 @@
+  
+1. Warmfeather - finance
+2. **Senator Thalassa Deepwater** - Senator for Maritime Affairs: Thalassa is a seasoned seafarer and ship captain who represents the interests of Calimport's maritime industry in the Senate. She is known for her expertise in naval strategy and her unwavering dedication to protecting the city's interests on the high seas.
+3. **Senator Orion Stoneheart** - Senator for Defense and Military Affairs: Orion is a decorated war hero and military strategist who oversees the defense and security initiatives of Calimport. He is respected for his leadership on the battlefield and his commitment to ensuring the safety and prosperity of the kingdom.
+4. **Senator Lysander Ironforge** - Senator for Trade and Commerce: Lysander is a shrewd and astute merchant prince who advocates for the interests of Calimport's bustling trade industry. He is known for his sharp business acumen and his ability to negotiate lucrative trade deals that benefit the kingdom's economy.
+5. **Senator Aurelia Brightwing** - Senator for Cultural Affairs and Education: Aurelia is a patron of the arts and a passionate advocate for education and enlightenment in Calimport. She works tirelessly to promote the city's rich cultural heritage and ensure that its citizens have access to quality education and cultural enrichment opportunities.
