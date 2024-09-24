@@ -1,0 +1,8 @@
+[[Snow Leopard]]
+[[Undying Berserker]]
+[[2 Suns Wizard]]
+[[Bear]]
+[[Dragon]]
+[[Octopus]]
+[[Raven]]
+[[Selune]]

@@ -26,4 +26,3 @@ O mago da torre, Juno corcunda velho claramente escravo com marcas de correntes 
 **P**rimero Barao de Palewind - Alto, jawline definida, cabelo branco e com rugas mas seu fisico aponta algo diferente. Possui 152 anos, mantidos por cartuchos que prolongam sua vida, todos os dias. Seu palacio de marmore custa uma fortuna para manter e seu dinheiro vem das oferendas do povo de palewind e de sua companhia de exportacao de trutas palidas do norte. [dismissive and hopeless sobre sua filha Fillia estar viva]
 [[Templo dos 3 Deuses]]
 [[Silvanus temple]]
-[[Act I - Burial of Memories]]

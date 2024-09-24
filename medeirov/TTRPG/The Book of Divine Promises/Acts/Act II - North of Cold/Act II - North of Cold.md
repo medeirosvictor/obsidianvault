@@ -19,11 +19,7 @@ Inicialmente as memorias sao removidas do corpo, para romper os attachments ao m
 - Egnever lembra que ele estava em busca do refugio das plumas, havia descoberto que existia um monastério irmão ao seu, estaria também destruído? Encontraria mais repostas?
 - Lembram-se que se conheceram ao longo do caminho. Primeiro, Hedwyn enquanto viajava por Faerun juntamente com Elir se conheceram num dos ambientes de prece conjunta em baldurs gate, partiram para uma missão de ajudar a trazer de volta um garotinho perdido. Shadow Prince viria a ser o nativo de baldurs gate que forneceu informações de ultimo paradeiro e de suspeitas. Interessado também resolveu participar. Numa viagem mais uns meses a frente, conheceram Kawara e Egnever que também estavam no navio, um motim explodiu no navio e os 5 tiveram que cobrir as próprias costas para escapar. Estiveram juntos desde então, por cerca de 1 ano e 6 meses.
   
-[[Back from the Astral Memories]]
-  
-[[Back from the Castle of Ravens]]
-[[Inside the Obsidian Walls]]
-[[Gone with the Wind]]
+
   
   
 Depois de derrotar Guideon com a ajuda do Corosine, a mao de auror consegue encontrar a tribo do norte dos godkin (Auroraheim Clan of the Frost Divines). Ali os players
@@ -92,3 +88,5 @@ In winter's touch, a tranquil sight."
 Ir para Calimsham (old west vibes depois de viajar pelas Cloven Mountains)
 Kron, Sene, Oni
 Khan, Shuster, Don
+
+[[Citadel of the Raven]]

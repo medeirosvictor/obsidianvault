@@ -29,3 +29,6 @@ Aqui estão quatro sugestões de magias únicas para o seu chefe feiticeiro/mago
     
     - _School:_ Evocation
     - The boss conjures a blazing spear wreathed in shadows and flames, hurling it at a target. On a successful ranged spell attack, the target takes substantial necrotic and fire damage. Additionally, if the target fails a Constitution saving throw, they suffer ongoing damage at the start of each of their turns for a duration, taking additional fire and necrotic damage.
+
+Entram na tribo do norte, encontram o templo de helm destruido e alertam uma galera ao encontra com o deus do cair da neve
+alma mater perseguem eles e fogem :

@@ -20,27 +20,81 @@
             }
           },
           {
-            "id": "1d5d1898f8dab03a",
+            "id": "d3c2bb95ccc90417",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/The Book of Divine Promises/The Book of Divine Promises.md",
+                "file": "TTRPG/The Book of Divine Promises/Acts/Act II - North of Cold/II. Castle of Ravens.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d3c2bb95ccc90417",
+            "id": "326824c5d8556f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/The Book of Divine Promises/Acts/Act III - Flash Burn/Act III - Flash Burn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af01f11bafd47470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/The Book of Divine Promises/Dragonmarks/Aberrant/Snow Leopard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f4c17c973b9f967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/The Book of Divine Promises/Acts/Act I - Burial of Memories/Act I - Burial of Memories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70223311b427b717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/The Book of Divine Promises/Acts/Act II - North of Cold/IV. Gone with the Wind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "d810e884c95e0418",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91a46f26ced0227a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "the storyteller",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -106,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG/The Book of Divine Promises/The Book of Divine Promises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPG/The Book of Divine Promises/The Book of Divine Promises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +197,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TTRPG/The Book of Divine Promises/The Book of Divine Promises.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +228,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3c2bb95ccc90417",
+  "active": "91a46f26ced0227a",
   "lastOpenFiles": [
+    "TTRPG/The Book of Divine Promises/Deceased Gods so Far.md",
+    "TTRPG/The Book of Divine Promises/Dragonmarks/Aberrant/Aberrant.md",
+    "TTRPG/The Book of Divine Promises/The World/Previous Events.md",
+    "TTRPG/The Book of Divine Promises/Acts/Act III - Flash Burn/Act III - Flash Burn.md",
+    "TTRPG/The Book of Divine Promises/Acts/Act II - North of Cold/I. Citadel of the Raven/Citadel of the Raven.md",
+    "TTRPG/The Book of Divine Promises/Dragonmarks/Aberrant/Selune.md",
+    "TTRPG/The Book of Divine Promises/Dragonmarks/Aberrant/Snow Leopard.md",
+    "TTRPG/The Book of Divine Promises/Dragonmarks/Aberrant/Undying Berserker.md",
+    "TTRPG/The Book of Divine Promises/Dragonmarks/Aberrant/2 Suns Wizard.md",
+    "TTRPG/The Book of Divine Promises/Dragonmarks/Aberrant/Dragon.md",
+    "TTRPG/The Book of Divine Promises/Dragonmarks/Aberrant/Raven.md",
+    "TTRPG/The Book of Divine Promises/Dragonmarks/Aberrant/Octopus.md",
+    "TTRPG/The Book of Divine Promises/Dragonmarks/Aberrant/Bear.md",
+    "TTRPG/The Book of Divine Promises/Dragonmarks/Aberrant",
+    "TTRPG/The Book of Divine Promises/Acts/Act I - Burial of Memories/Act I - Burial of Memories.md",
+    "TTRPG/The Book of Divine Promises/Acts/Act I - Burial of Memories/Back from the Astral Memories.md",
+    "TTRPG/The Book of Divine Promises/Acts/Act II - North of Cold/IV. Gone with the Wind.md",
+    "TTRPG/The Book of Divine Promises/Acts/Act II - North of Cold/Act II - North of Cold.md",
+    "TTRPG/The Book of Divine Promises/Acts/Act II - North of Cold/II. Castle of Ravens.md",
+    "TTRPG/The Book of Divine Promises/Acts/Act II - North of Cold/Untitled.md",
+    "TTRPG/The Book of Divine Promises/Acts/Act III - Flash Burn/Calimport/Alma Mater.md",
+    "TTRPG/The Book of Divine Promises/Acts/Act II - North of Cold/0. Back from the Astral Memories/Days as a Raven.md",
+    "TTRPG/The Book of Divine Promises/Acts/Act II - North of Cold/III. Inside the Obsidian Walls.md",
+    "TTRPG/The Book of Divine Promises/Acts/Act II - North of Cold/0. Back from the Astral Memories/Around the nest.md",
+    "TTRPG/The Book of Divine Promises/The Book of Divine Promises.md",
+    "TTRPG/The Book of Divine Promises/Acts/Act IV - Take Flight/Act IV - Take Flight.md",
+    "TTRPG/The Book of Divine Promises/Acts/Act IV - Take Flight/The Storyteller's Tower.md",
     "Assets/images/IMG_4073.png",
     "TTRPG/The Book of Divine Promises",
     "Assets/images/image 2 2.png",
@@ -191,41 +268,14 @@
     "Assets/images/Untitled 1 2.png",
     "Assets/images/Untitled 1 4.png",
     "Assets/images/Untitled 3.png",
-    "Assets/images/Illiarosa3.png",
-    "Draw/Drawing.md",
     "Assets/images",
-    "Read/Read.md",
-    "Programm/dev.md",
     "Read",
     "French",
     "Draw",
-    "TODO.md",
-    "The Story so far.md",
     "Untitled.canvas",
-    "OSF Digital/Interviewing Others/Entrevista Guides.md",
-    "After Defeating Nimue.md",
     "OSF Digital/Interviewing Others",
-    "OSF Digital/Trainings/SFRA for SG Developers Training.md",
-    "OSF Digital/OSF Digital.md",
     "OSF Digital/Sense Info",
-    "OSF Digital/Ideas.md",
     "OSF Digital/Trainings",
-    "OSF Digital/GIFI FR",
-    "OSF Digital/David Yurman",
-    "TTRPG/The Book of Divine Promises/A Mao de Auror (Players)/A Mao de Auror.md",
-    "TTRPG/The Book of Divine Promises/The Book of Divine Promises.md",
-    "TTRPG/The Book of Divine Promises/A Mao de Auror (Players)/Characters.md",
-    "DND - The Book of Divine Promises/A Mao de Auror (Players)/Player Notes.md",
-    "TTRPG/The Book of Divine Promises/Acts/Acts.md",
-    "DND - The Book of Divine Promises/A Mao de Auror (Players)/Astral State.md",
-    "TTRPG/The Book of Divine Promises/Acts/Act II - North of Cold/Back from the Astral Memories/Citadel of the Raven/Citadel of the Raven.md",
-    "TTRPG/The Book of Divine Promises/The World/The World.md",
-    "TTRPG/The Book of Divine Promises/Acts/Act IV - Take Flight/Act IV - Take Flight.md",
-    "TTRPG/The Book of Divine Promises/Acts/Act V - Mandatory Growth/Act V - Mandatory Growth.md",
-    "TTRPG/The Book of Divine Promises/Acts/Act V - Mandatory Growth/Deserto dos Imortais.md",
-    "TTRPG/The Book of Divine Promises/Acts/Act V - Mandatory Growth/Floresta dos Deuses-Imortais/Floresta dos Deuses-Imortais.md",
-    "DND - The Book of Divine Promises/Act V - Mandatory Growth/Floresta dos Deuses/Floresta dos Deuses.md",
-    "TTRPG/The Book of Divine Promises/Dragonmarks/Dragonmarks.md",
-    "DND - The Book of Divine Promises/The World/DragonMarks.md"
+    "OSF Digital/GIFI FR"
   ]
 }

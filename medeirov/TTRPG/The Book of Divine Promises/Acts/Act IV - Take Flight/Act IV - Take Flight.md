@@ -20,6 +20,6 @@ Main Goals for the party
 - Go to the Forest of the Gods
 - ??? ask them
 [[Em Calimport]]
-[[The Storyteller’s Tower]]
+[[The Storyteller's Tower]]
 [[Astral Sailing]]
 [[Tormenta Arcana]]
