@@ -6,7 +6,6 @@
       {
         "id": "127defa1e67ac3b1",
         "type": "tabs",
-        "dimension": 60.03490401396161,
         "children": [
           {
             "id": "2231d1083d47d509",
@@ -42,21 +41,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "018d592cb0363a20",
-        "type": "tabs",
-        "dimension": 39.9650959860384,
-        "children": [
-          {
-            "id": "b70676485498ecbb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -190,8 +174,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d3c2bb95ccc90417",
