@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/The Book of Divine Promises/A Mao de Auror (Players)/A Mao de Auror.md",
+                "file": "Programm/Salesforce/Reports and Dashboards.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG/The Book of Divine Promises/A Mao de Auror (Players)/A Mao de Auror.md",
+                "file": "Programm/Salesforce/Reports and Dashboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPG/The Book of Divine Promises/A Mao de Auror (Players)/A Mao de Auror.md",
+                "file": "Programm/Salesforce/Reports and Dashboards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG/The Book of Divine Promises/A Mao de Auror (Players)/A Mao de Auror.md"
+                "file": "Programm/Salesforce/Reports and Dashboards.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   "active": "91a46f26ced0227a",
   "lastOpenFiles": [
     "TTRPG/The Book of Divine Promises/A Mao de Auror (Players)/A Mao de Auror.md",
+    "Programm/Salesforce/Reports and Dashboards.md",
+    "Programm/Salesforce",
     "TTRPG/The Book of Divine Promises/A Mao de Auror (Players)/Characters.md",
     "TTRPG/The Book of Divine Promises/Deceased Gods so Far.md",
     "TTRPG/The Book of Divine Promises/Dragonmarks/Aberrant/Aberrant.md",
@@ -185,7 +187,6 @@
     "TTRPG/The Book of Divine Promises/Acts/Act II - North of Cold/0. Back from the Astral Memories/Days as a Raven.md",
     "TTRPG/The Book of Divine Promises/Acts/Act II - North of Cold/III. Inside the Obsidian Walls.md",
     "TTRPG/The Book of Divine Promises/Acts/Act II - North of Cold/0. Back from the Astral Memories/Around the nest.md",
-    "TTRPG/The Book of Divine Promises/The Book of Divine Promises.md",
     "Assets/images/IMG_4073.png",
     "TTRPG/The Book of Divine Promises",
     "Assets/images/image 2 2.png",
@@ -204,7 +205,6 @@
     "Untitled.canvas",
     "OSF Digital/Interviewing Others",
     "OSF Digital/Sense Info",
-    "OSF Digital/Trainings",
-    "OSF Digital/GIFI FR"
+    "OSF Digital/Trainings"
   ]
 }
