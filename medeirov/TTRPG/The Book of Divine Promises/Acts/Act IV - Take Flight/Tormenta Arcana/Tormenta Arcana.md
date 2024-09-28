@@ -58,3 +58,5 @@ trade walking with flying trick contract
 cancel ilusion to make trees disappear
 make astral dragon of treason direct one of the spells or attacks of one of them towards each other
 trade limbs for limbs
+
+![[Pasted image 20240927232116.png]]
