@@ -48,11 +48,34 @@ No centro da sala uma criatura imensa cercada de outros seres que imitam seus mo
 - Room of leveling: entram em um quarto escuro e precisam tatear o way out, lights might work but beasts. em um dos caminhos they will find 3 simulacros de um mago que tentam se destruir mas estao cursed a sempre achar o camnho certo;
 - Room of leveling: The elf who saw seconds, 7 seconds after making a decision he knows if it was the best he could have taken or if there was another one better; and everytime he is wrong his body burns to a nova and incinerates everything around him;
   
+
+
+
 Illiarosa fight
+
 Roll for CON/WIS save to see if they can read the fine print
 They will use the subjects of traitors as fall guys for the contracts
-  
-2 stone walls and one fireball center
+3 Legendary Resistance + 1 for each subbordinado sacrificado;
+
+First round  
+2 stone walls and one sunbeam;
+
+Make the subordinados hold the concentration for his spells - Call Lightning
+
+illiarosa pode oferecer contratos por spell slots, action surges, para os aliados em troca de repetir suas acoes;
+
+illiarosa pode forfeit seu turno para agir 2x no turno seguinte;
+
+illiarosa oferece um contrato para leva-los para fora da tormenta ao atingir o half-way point, aparecendo em um empty bazaar, com uma cratera e ruinas; este parece vagar fora do ciclo de navegacao e parece ir em direcao a tormenta;
+
+illiarosa ao atingir roughly metade da vida (a adaptar pelo dmg output da party) abscond de poder usar magias e se torna uma menace physica; Tensers transformation spell;
+
+illiarosa pode emitir um contrato para parar de andar ou correr, fine print revela que agora ele voa e plana;
+
+illiarosa pode oferecer trocar um membro dele (bait using description of how he seems to cast his spells)
+
+
+
 trade casting spells with phsyical prowess
 trade walking with flying trick contract
 cancel ilusion to make trees disappear
