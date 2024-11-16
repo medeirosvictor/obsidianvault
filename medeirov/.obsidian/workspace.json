@@ -16,10 +16,25 @@
                 "file": "TTRPG/The Book of Divine Promises/Acts/Act IV - Take Flight/Tormenta Arcana/Tormenta Arcana.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Tormenta Arcana"
+            }
+          },
+          {
+            "id": "e9e5aebfb8c1377f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tormenta Arcana"
             }
           },
           {
@@ -105,7 +128,9 @@
                 "file": "TTRPG/The Book of Divine Promises/Acts/Act IV - Take Flight/Tormenta Arcana/Tormenta Arcana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tormenta Arcana"
             }
           },
           {
@@ -116,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +153,9 @@
               "type": "outline",
               "state": {
                 "file": "TTRPG/The Book of Divine Promises/Acts/Act IV - Take Flight/Tormenta Arcana/Tormenta Arcana.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tormenta Arcana"
             }
           },
           {
@@ -134,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -157,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91a46f26ced0227a",
+  "active": "e9e5aebfb8c1377f",
   "lastOpenFiles": [
     "Pasted image 20240927232116.png",
     "TTRPG/The Book of Divine Promises/Acts/Act IV - Take Flight/Astral Sailing/O Pergolago - 7B8M12K/O Pergolago - 7B8M12K.md",
