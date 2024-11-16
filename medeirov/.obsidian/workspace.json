@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Tormenta Arcana"
             }
-          },
-          {
-            "id": "e9e5aebfb8c1377f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9e5aebfb8c1377f",
+  "active": "91a46f26ced0227a",
   "lastOpenFiles": [
     "Pasted image 20240927232116.png",
     "TTRPG/The Book of Divine Promises/Acts/Act IV - Take Flight/Astral Sailing/O Pergolago - 7B8M12K/O Pergolago - 7B8M12K.md",
