@@ -27,12 +27,7 @@ Can you remember who you were before the Godkin told you who to be?
   
 ![[image 2 2.png|image 2 2.png]]
 ![[GodkinArcaneTormentBazzaar.png]]
-[https://www.youtube.com/watch?v=2x11dmoTwYU](https://www.youtube.com/watch?v=2x11dmoTwYU)
-[https://www.youtube.com/watch?v=4aaOMfVEomU](https://www.youtube.com/watch?v=4aaOMfVEomU)
-  
-[low of solipsism](https://www.youtube.com/watch?v=81D8CCguW4g)
-![[IMG_4073.png]]
-  
+
 Depois de recuperar os poderes de Elir, elvis o arquiteto vai indicar que agora ele tem mais detalhes sobre as mentiras que ele vai contar no futuro:
 - Em nao mais que 3 instancias ele ira mentir por cerca de 30min, assunto e momento undisclosed
 Aqui os players podem ir para varias salas
