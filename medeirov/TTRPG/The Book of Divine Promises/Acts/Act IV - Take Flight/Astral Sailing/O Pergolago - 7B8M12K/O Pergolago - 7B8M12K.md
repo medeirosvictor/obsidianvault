@@ -1,6 +1,8 @@
 ![[Pergolago.png|Pergolago.png]]
 Astral Bazzaar 7B8M12K - O Pergolago
 
+1A1A11A
+
 The Githyanki Embassy: Since the Githyanki are known to inhabit the Astral Plane, an embassy or outpost within The Pergolago would make sense. It could be a place of political intrigue and a source of quests related to the Githyanki and their enemies.
 The Mind's Eye Tavern: A popular gathering spot for travelers and locals alike, this tavern serves astral delicacies and offers a variety of entertainment. It's run by a telepathic Illithid who retired from adventuring and now enjoys the stories of others.
 The Shipwright's Ascendancy: A guild of skilled builders and enchanters specializing in the construction and repair of spelljammers. Players can commission a ship, hire a crew, or seek out quests related to the guild's interests.
