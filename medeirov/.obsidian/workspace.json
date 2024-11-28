@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/The Book of Divine Promises/Acts/Act IV - Take Flight/Astral Sailing/O Pergolago - 7B8M12K/O Pergolago - 7B8M12K.md",
+                "file": "TTRPG/The Book of Divine Promises/Acts/Act V - Mandatory Growth/Floresta dos Deuses-Imortais/Floresta dos Deuses-Imortais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O Pergolago - 7B8M12K"
+              "title": "Floresta dos Deuses-Imortais"
             }
           }
         ]
@@ -151,8 +151,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -178,9 +178,9 @@
   },
   "active": "91a46f26ced0227a",
   "lastOpenFiles": [
+    "TTRPG/The Book of Divine Promises/Acts/Act IV - Take Flight/Astral Sailing/O Pergolago - 7B8M12K/O Pergolago - 7B8M12K.md",
     "TTRPG/The Book of Divine Promises/Acts/Act IV - Take Flight/Tormenta Arcana/Tormenta Arcana.md",
     "TTRPG/The Book of Divine Promises/Acts/Act IV - Take Flight/Astral Sailing/Astral Sailing.md",
-    "TTRPG/The Book of Divine Promises/Acts/Act IV - Take Flight/Astral Sailing/O Pergolago - 7B8M12K/O Pergolago - 7B8M12K.md",
     "TTRPG/The Book of Divine Promises/Dragonmarks/Dragonmarks.md",
     "TTRPG/The Book of Divine Promises/Acts/Act IV - Take Flight/Act IV - Take Flight.md",
     "TTRPG/The Book of Divine Promises/Acts/Act IV - Take Flight/The Storyteller's Tower.md",
