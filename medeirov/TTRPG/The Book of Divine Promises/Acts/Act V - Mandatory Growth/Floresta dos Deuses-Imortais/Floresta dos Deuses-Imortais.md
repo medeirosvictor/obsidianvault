@@ -11,4 +11,4 @@ Se recusam a usar a marca de balance pois ela propoe o caminho mais curto para o
 
 Imagem abaixo representa o Panteao de Ouro, onde o dragao astral do tempo foi usado por um anciao da tribo para evitar que Helm terminasse de matar Morrigan. Ambos os deuses foram substituidos e Elyrian viu na cerimonia um caminho para o seu plano final. 
 
-![[Pasted image 20241128111121.png]]
+![[Pasted image 20241128111121.png]]![[D9B083F6-FE3A-48BB-B280-C795E1C073C9_1_105_c.jpeg]]
